@@ -1,0 +1,11 @@
+Package: rIVPROBIT
+Type: Package
+Title: What the Package Does (Title Case)
+Version: 0.1.0
+Author: Miguel Godinho de Matos
+Maintainer: Miguel Godinho de Matos <miguel.godinhomatos@ucp.pt>
+Description: Implements instrumental variable probit and several 
+support functions that allow obtaining marginal effects
+License: GPL-3
+Encoding: UTF-8
+LazyData: true
